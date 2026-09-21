@@ -38,7 +38,7 @@ composer require laravel/boost --dev
 
 php artisan boost:install
 ```
-
+coba aja sih
 Boost provides your agent 15+ tools and skills that help agents build Laravel applications while following best practices.
 
 ## Contributing
